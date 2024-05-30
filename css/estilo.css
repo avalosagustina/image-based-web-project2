@@ -6,11 +6,17 @@ body{
 
 .ingreso{
     background-color: #ffffff;
-    border-radius: 15px;
+    border-radius: 10px;
     width: 50%;
     height: 520px;
     padding: 0px 35px;
     margin: auto;
+}
+.imagen{
+    margin-top: 12px;
+    margin-bottom: -25px;
+    margin-left: 250px;
+    width: 70px;
 }
 h1{
     font-family: sans-serif;
@@ -19,9 +25,6 @@ h1{
     text-align: center;
     margin-top: 0px;
     margin-bottom: 0px;
-    letter-spacing: 0,1px;
-    box-sizing: border-box;
-    
 }
 h2{
     font-family: sans-serif;
@@ -48,12 +51,6 @@ form label{
     margin: 30px 0px 15px 0px;
 }
 
-.imagen{
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-left: 250px;
-    box-sizing: border-box;
-}
 
 .linea{
     border-bottom: 1px solid rgb(150, 150, 150);
