@@ -8,16 +8,34 @@ body{
     background-color: #ffffff;
     border-radius: 15px;
     width: 50%;
+    height: 520px;
+    padding: 0px 35px;
 }
 h1{
     font-family: sans-serif;
     font-size: 50px;
     font-weight: 900;
     text-align: center;
-    margin-top: 2px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     letter-spacing: 0,1px;
+    
 }
-
+h2{
+    font-family: sans-serif;
+    font-size: 23px;
+    text-align: center;
+    color: black;
+    margin-bottom: 0px;
+    text-align: justify;
+}
+.bienvenida{
+    font-family: sans-serif;
+    font-size: 12px;
+    color:#9b9c9e;
+    margin-top: 3px;
+    text-align: justify;
+}
 
 
 form label{
@@ -25,4 +43,58 @@ form label{
 }
 .formulario{
     text-align: center;
+    margin: 30px 0px 15px 0px;
+}
+
+.imagen{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 250px;
+}
+
+.linea{
+    border-bottom: 1px solid rgb(150, 150, 150);
+    padding: 5px 0px;
+}
+
+.identificador{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    text-align: left;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.escribir{
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #9b9c9e;
+    width: 98%;
+    height: 35px;
+
+}
+button{
+    width: 100%;
+    height: 35px;
+    border: 1px solid #367bf5;
+    font-family: sans-serif;
+    font-size: 10px;
+    background-color: #367bf5;
+    border-radius: 3px;
+    margin-top: 2px;
+    margin-bottom: 0px;
+}
+.frase{
+    font-family: sans-serif;
+    font-size: 10px;
+    color: #9b9c9e;
+    font-weight: 700;
+    text-align: center;
+}
+.registro{
+    font-family: sans-serif;
+    font-size: 10px;
+    text-decoration: none;
+    color: black;
 }
