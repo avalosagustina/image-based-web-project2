@@ -20,6 +20,7 @@ h1{
     margin-top: 0px;
     margin-bottom: 0px;
     letter-spacing: 0,1px;
+    box-sizing: border-box;
     
 }
 h2{
@@ -51,6 +52,7 @@ form label{
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: 250px;
+    box-sizing: border-box;
 }
 
 .linea{
